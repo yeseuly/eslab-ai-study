@@ -1,2 +1,2 @@
 # eslab-ai-study
-AI study group in embedded and software Lab.
+AI study group in Embedded and Software Lab.
